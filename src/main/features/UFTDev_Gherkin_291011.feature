@@ -11,4 +11,5 @@ Then the mouse price is "<price>"
 Examples: 
 | color  | price | 
 | white  | $29.99 | 
-| red | $15.99 | 
+| red | $15.99 |
+| black | $12.99 |
